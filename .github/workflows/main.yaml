@@ -1,0 +1,29 @@
+on:
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths-ignore: []
+concurrency:
+  group: ${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+    steps:
+    - uses: actions/checkout@v3
+    - run:
+        npm i @doc-tools/docs -g && yfm -i ./yfm -o ./out -s
+      timeout-minutes: 1
+    - uses: actions/configure-pages@v1
+    - uses: actions/upload-pages-artifact@v1
+      with:
+        path: ./out
+    - uses: actions/deploy-pages@main
+      id: deployment
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
