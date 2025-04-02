@@ -1,1 +1,6 @@
-hello
+![ispanec](https://github.com/user-attachments/assets/3db5352f-87db-4480-a192-48a1b1c1a52a =400x300)
+![durka](https://github.com/user-attachments/assets/f4605431-39d4-4d35-9d0e-ecd14657a922 =400x300)
+![pikachu](https://github.com/user-attachments/assets/e0979025-bb49-45fa-b437-c1f9348d5a53 =400x300)
+![cheems](https://github.com/user-attachments/assets/214e8f56-7608-427d-9e89-10962433d031 =400x300)
+![swole](https://github.com/user-attachments/assets/c6d47a61-36fc-497b-bb8b-4e0710d4db1c =400x300)
+![stonks](https://github.com/user-attachments/assets/33df233e-6959-4c1d-a5e1-6deffa9473e3 =400x300)
