@@ -1,1 +1,11 @@
-TODO
+![rollsafe](https://github.com/user-attachments/assets/5c14ad35-a852-4924-b5ae-4b6eee0e00d0 =400x300)
+![interesno](https://github.com/user-attachments/assets/725012eb-a351-4b99-b33f-a88d585e4a91 =400x300)
+![terpet](https://github.com/user-attachments/assets/ec95620c-074a-4950-ad58-213ef57673c9 =400x300)
+![lovite](https://github.com/user-attachments/assets/c8e54a85-6f33-46c2-978f-19ec99cd1795 =400x300)
+![loshara](https://github.com/user-attachments/assets/223dc3f3-89c2-4831-aad5-f4c325cd7c87 =400x300)
+![bog](https://github.com/user-attachments/assets/96856cef-b447-42c5-a484-4144bb0914c2 =400x300)
+![opyat](https://github.com/user-attachments/assets/5e9e0894-cc1f-4161-ba22-b2745b34db1f =400x300)
+![stalin](https://github.com/user-attachments/assets/b4da5a1d-a388-45d6-8144-bd22fecc9043 =400x300)
+![oivse](https://github.com/user-attachments/assets/485238df-2303-4d08-a2cf-2b548a119238 =400x300)
+![shock](https://github.com/user-attachments/assets/c5c3c143-8428-4033-8bae-8c8afa78ed4b =400x300)
+![directedby](https://github.com/user-attachments/assets/26847c8a-a2ba-4ff8-930f-5aa8c94822f8 =400x300)
