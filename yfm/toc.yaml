@@ -8,3 +8,5 @@ items:
   href: provod.md
 - name: текст
   href: ascii.md
+- name: прочее
+  href: other.md
