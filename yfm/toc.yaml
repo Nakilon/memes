@@ -4,7 +4,7 @@ href: index.yaml
 items:
 - name: фейспалмы
   href: facepalm.md
-- name: provod discord
+- name: discord
   href: provod.md
 - name: текст
   href: ascii.md
