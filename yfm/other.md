@@ -3,6 +3,7 @@
 ![interesno](https://github.com/user-attachments/assets/725012eb-a351-4b99-b33f-a88d585e4a91 =400x300)
 ![idiocracy](https://github.com/user-attachments/assets/6776e9ca-41fb-431b-a0cf-db8474c1dbe9 =400x200)
 ![chan](https://github.com/user-attachments/assets/962aa388-b715-43d9-86c5-d25ae318a272 =400x200)
+![chego](https://github.com/user-attachments/assets/ad645993-7374-4e10-ba09-283e58fbfaad =400x400)
 ![paper](https://github.com/user-attachments/assets/948177f9-013e-43f0-a9ce-b47ff0996e9f =400x300)
 ![honest](https://github.com/user-attachments/assets/10d17588-143f-4a0c-b450-661ee9516096 =400x200)
 ![cat](https://github.com/user-attachments/assets/80edb851-a717-47c3-aa03-4c8c67bb584a =400x400)
