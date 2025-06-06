@@ -7,6 +7,8 @@
 ![paper](https://github.com/user-attachments/assets/948177f9-013e-43f0-a9ce-b47ff0996e9f =400x300)
 ![honest](https://github.com/user-attachments/assets/10d17588-143f-4a0c-b450-661ee9516096 =400x200)
 ![cat](https://github.com/user-attachments/assets/80edb851-a717-47c3-aa03-4c8c67bb584a =400x400)
+![crying](https://github.com/user-attachments/assets/5cf8ca68-94f9-41ab-8424-880a5055c13b =400x300)
+![serious](https://github.com/user-attachments/assets/84510075-31ac-4eac-8cac-95814a47a78d =400x400)
 ![fabric](https://github.com/user-attachments/assets/fd0e8071-904b-4429-9a6d-db5149081c2c =400x200)
 ![lovite](https://github.com/user-attachments/assets/c8e54a85-6f33-46c2-978f-19ec99cd1795 =400x400)
 ![terpet](https://github.com/user-attachments/assets/ec95620c-074a-4950-ad58-213ef57673c9 =400x400)
