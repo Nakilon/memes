@@ -13,6 +13,7 @@
 ![lovite](https://github.com/user-attachments/assets/c8e54a85-6f33-46c2-978f-19ec99cd1795 =400x400)
 ![terpet](https://github.com/user-attachments/assets/ec95620c-074a-4950-ad58-213ef57673c9 =400x400)
 ![loshara](https://github.com/user-attachments/assets/223dc3f3-89c2-4831-aad5-f4c325cd7c87 =400x400)
+![pidors](https://github.com/user-attachments/assets/933740fc-706b-4ad0-bb1a-24b93eed4dc4 =400x200)
 ![psycho](https://github.com/user-attachments/assets/36c8e79a-28ca-4619-8744-6710f7adcebe =400x400)
 ![bog](https://github.com/user-attachments/assets/96856cef-b447-42c5-a484-4144bb0914c2 =400x400)
 ![opyat](https://github.com/user-attachments/assets/5e9e0894-cc1f-4161-ba22-b2745b34db1f =400x400)
