@@ -21,3 +21,4 @@
 ![oivse](https://github.com/user-attachments/assets/485238df-2303-4d08-a2cf-2b548a119238 =400x400)
 ![shock](https://github.com/user-attachments/assets/c5c3c143-8428-4033-8bae-8c8afa78ed4b =400x400)
 ![directedby](https://github.com/user-attachments/assets/26847c8a-a2ba-4ff8-930f-5aa8c94822f8 =400x300)
+![malovato](https://github.com/user-attachments/assets/e8e1cdb1-59f4-47ea-ab57-a0f442f3c7b1 =400x400)
